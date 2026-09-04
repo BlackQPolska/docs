@@ -1,4 +1,4 @@
----
+auto---
 title: Administering your instance from the web UI
 intro: To perform administrative tasks for {% data variables.location.product_location %}, you can use the {% data variables.enterprise.management_console %} and site admin dashboard.
 redirect_from:
