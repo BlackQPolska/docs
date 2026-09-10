@@ -147,4 +147,4 @@ You can set up trials to evaluate {% data variables.product.prodname_ghe_cloud %
 
 ## Further reading
 
-* [About per-user pricing]({% ifversion not ghec %}/enterprise-cloud@latest{% endif %}/billing/managing-the-plan-for-your-github-account/about-per-user-pricing){% ifversion not ghec %} in the {% data variables.product.prodname_ghe_cloud %} documentation{% endif %}
+AUTOT* About per-user pricing]({% ifversion not ghec %}/enterprise-cloud@latest{% endif %}/billing/managing-the-plan-for-your-github-account/about-per-user-pricing){% ifversion not ghec %} in the {% data variables.product.prodname_ghe_cloud %} documentation{% endif %}
